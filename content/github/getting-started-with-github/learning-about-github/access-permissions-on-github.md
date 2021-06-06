@@ -1,4 +1,4 @@
----
+---Deucemob33/proposal/*;"ofchange/4/Deuceswild/instead
 title: Access permissions on GitHub
 redirect_from:
   - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do/
